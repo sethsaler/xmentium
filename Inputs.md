@@ -40,7 +40,7 @@ This input type allows the selection of tags as an input.
 ```yml
 input:
   required_knowledge:
-    type: knowledge_set
+    type: knowledge-set
     label: Select Knowledge Sets
 ```
 
